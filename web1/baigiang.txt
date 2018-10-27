@@ -1,0 +1,54 @@
+Web introduction:
+1. Questions:
+- For a website to function, how many machines are required?
+=> at least 2 machines
+
+- Does all of your profile information go away if you close your browser on your pc?
+=> no
+
+- How many sub-pages that ... has?
+=> many
+
+2. Web:
+Front-end developer: HTML, CSS, JS
+Back-end developer: python,...
+=> Full stack developer
+
+Client(web browser) => Server: GET request
+Server => Client: HTML,CSS, JS
+
+3. Flask(frame work): used to solve the same problems from different website
+- Routing
+- Accessing request info 
+(Url parameter)
+- Rendering data
+
+Base -> Web framework -> Web application
+
+* Loopback:
+Allow developer to develop server and access web browser(client) on the same PC (client automatically send request to server on the same PC)
+
+* Port:
+
+4. Route(r)s:
+@app.route("/home")
+def index():
+
+- Name of the route must be unique
+
+5. HTML:
+<ol></ol> ordered list
+<li></li> list item
+<ul></ul> unordered list
+
+6. CSS:
+- Change Font
+- Change Color
+- Change Size
+- Change Distinct
+- Change Background
+
+change all:
+* {}
+
+

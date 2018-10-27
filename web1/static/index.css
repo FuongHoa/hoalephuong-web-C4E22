@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+}
+body {
+    height: 100%
+}
+
+h2 {
+    color:#55d1a1;
+    font-family: 'Mali', cursive;
+}
+
+li {
+    font-family: 'Kodchasan', sans-serif;
+    color: #f7fff8
+}
+
+#root {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://images.unsplash.com/photo-1500467525088-aafe28c0a95e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1ee7e175880a6a44b5d54c4652d1dafd&auto=format&fit=crop&w=808&q=80);
+    height: 100%;
+}
